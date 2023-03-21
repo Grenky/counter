@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  background-color:white;
+  margin: 10% 0px 0px 0px;
+}
+.minus, .plus {
+  width: 70px;
+  height: 30px;
+  border-radius: 5px;
+  
+  color: white;
+  cursor: pointer;
+}
+.minus {
+  background-color: #CD2644;
+  margin-right: 5px;
+}
+.plus {
+  background-color: #33A387;
+  margin-left: 5px;
+}
+
